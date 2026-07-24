@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Bamboo Dojo",
+  "description": "A fast-paced, WarioWare-style microgame trainer set in a sushi restaurant, with score/combo/lives tracking, a leaderboard, and a Gemini-powered Bamboo Oracle chatbot for sushi trivia.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
